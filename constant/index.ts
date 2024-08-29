@@ -6,6 +6,6 @@ export const marketingImg = [
 ];
 
 export const contacts = [
-  { icon: "/whatsapp.svg", label: "Whatsapp", tel: "+971 58 023 2333", link: "https://wa.me/+971580232333" },
+  { icon: "/whatsapp.svg", label: "Whatsapp", tel: "+971 58 543 0016", link: "https://wa.me/+971585430016" },
   { label: "Email", tel: "info@chefirinauae.com", link: "mailto:info@chefirinauae.com" },
 ]
